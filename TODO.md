@@ -1,0 +1,6 @@
+- [ ] make sure that the data preparation pipeline worked as intended (by inspecting the various pieces)
+- [ ] proceed as in Chollet (i.e. bag-of-words => TF-IDF => transformers)
+    - [ ] once that's done, try transfer learning
+- [ ] once that's done try different architectures, models, feature engineering (dimensionality reduction)
+- [ ] put everything on colab and make sure it works!
+- [ ] write the report
