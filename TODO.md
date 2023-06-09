@@ -4,5 +4,6 @@
     - [x] bag of words with 2 gram and TF-IDF
     - [ ] once that's done, try transfer learning
 - [ ] once that's done try different architectures, models, feature engineering (dimensionality reduction)
+- [ ] make the exposition more fluent (in jupyter notebook)
 - [ ] put everything on colab and make sure it works!
 - [ ] write the report
