@@ -2,8 +2,13 @@
 - [ ] proceed as in Chollet (i.e. bag-of-words => TF-IDF => transformers)
     - [x] bag of words with 1 gram
     - [x] bag of words with 2 gram and TF-IDF
-    - [ ] once that's done, try transfer learning
 - [ ] once that's done try different architectures, models, feature engineering (dimensionality reduction)
+    - [ ] feature engineering
+        - [ ] check feature importance
+        - [ ] ? the embedding 'attributes' thing
+    - [ ] try RNNs (LSTM, GRU)
+    - [ ] possibly transformers (training time might be excessive)
+    - [ ] try transfer learning
 - [ ] make the exposition more fluent (in jupyter notebook)
 - [ ] put everything on colab and make sure it works!
 - [ ] write the report
