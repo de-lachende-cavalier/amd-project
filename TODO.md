@@ -6,9 +6,10 @@
         - [x] feature engineering
             - [x] check feature importance
             - [x] ? the embedding 'attributes' thing
-        - [ ] try RNNs (LSTM, GRU)
+        - [x] try RNNs (LSTM, GRU)
         - [ ] possibly transformers (training time might be excessive)
         - [ ] try transfer learning
+- [ ] refactor code
 - [ ] make the exposition more fluent (in jupyter notebook)
     - [ ] possibly split a single notebook into multiple ones?
 - [ ] put everything on colab and make sure it works!
