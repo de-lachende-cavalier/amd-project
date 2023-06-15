@@ -9,8 +9,10 @@
         - [x] try RNNs (LSTM, GRU)
         - [ ] possibly transformers (training time might be excessive)
         - [ ] try transfer learning
+        - [ ] maybe try preptrained embeddings ? (word2vec, glove, ...)
 - [ ] refactor code
 - [ ] make the exposition more fluent (in jupyter notebook)
+    - [ ] add images when necessary
     - [ ] possibly split a single notebook into multiple ones?
 - [ ] put everything on colab and make sure it works!
 - [ ] write the report
