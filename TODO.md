@@ -7,7 +7,7 @@
             - [x] check feature importance
             - [x] ? the embedding 'attributes' thing
         - [x] try RNNs (LSTM, GRU)
-        - [ ] possibly transformers (training time might be excessive)
+        - [x] possibly transformers (training time might be excessive)
         - [ ] try transfer learning
         - [ ] maybe try preptrained embeddings ? (word2vec, glove, ...)
 - [ ] refactor code
@@ -15,4 +15,5 @@
     - [ ] add images when necessary
     - [ ] possibly split a single notebook into multiple ones?
 - [ ] put everything on colab and make sure it works!
+    - [ ] not enough RAM!! reduce model size...
 - [ ] write the report
