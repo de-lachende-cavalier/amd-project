@@ -2,18 +2,20 @@
 - [ ] proceed as in Chollet (i.e. bag-of-words => TF-IDF => transformers)
     - [x] bag of words with 1 gram
     - [x] bag of words with 2 gram and TF-IDF
-    - [ ] once that's done try different architectures, models, feature engineering (dimensionality reduction)
+    - [x] once that's done try different architectures, models, feature engineering (dimensionality reduction)
         - [x] feature engineering
             - [x] check feature importance
             - [x] ? the embedding 'attributes' thing
         - [x] try RNNs (LSTM, GRU)
         - [x] possibly transformers (training time might be excessive)
-        - [ ] try transfer learning
+        - [ ] try transfer learning ?
         - [ ] maybe try preptrained embeddings ? (word2vec, glove, ...)
 - [ ] refactor code
+    - [x] make sure that all the parts of the model refer to it by name (text\_vectorization, train\_data, etc) to avoid confusion)
 - [ ] make the exposition more fluent (in jupyter notebook)
     - [ ] add images when necessary
     - [ ] possibly split a single notebook into multiple ones?
 - [ ] put everything on colab and make sure it works!
     - [ ] not enough RAM!! reduce model size...
 - [ ] write the report
+    - [ ] use chollet diagrams to explain the NLP process (chapter 11)
