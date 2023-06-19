@@ -14,6 +14,7 @@
     - [x] make sure that all the parts of the model refer to it by name (text\_vectorization, train\_data, etc) to avoid confusion)
 - [ ] fine-tuning!
     - [ ] maybe try adding an embedding layer ?
+- [ ] decrease the sized of saved models
 - [ ] make the exposition more fluent (in jupyter notebook)
     - [ ] add images when necessary
     - [ ] possibly split a single notebook into multiple ones?
