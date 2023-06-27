@@ -18,5 +18,6 @@
     - [x] redo the fine-tuning without TF-IDF!
 - [ ] put everything on colab and make sure it works!
     - [ ] not enough RAM!! reduce model size...
+    - [ ] add the code to download the splits directly from github repo (so we don't need to run the python script anew)
 - [ ] write the report
     - [ ] use chollet diagrams to explain the NLP process (chapter 11)
