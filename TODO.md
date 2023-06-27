@@ -13,7 +13,7 @@
 - [ ] refactor code
     - [x] make sure that all the parts of the model refer to it by name (text\_vectorization, train\_data, etc) to avoid confusion)
     - [ ] watch for punctuation!
-    - [ ] add images when necessary
+    - [ ] rich_df is read when useless!! delete that code
 - [x] fine-tuning!
     - [x] redo the fine-tuning without TF-IDF!
 - [ ] put everything on colab and make sure it works!
