@@ -8,12 +8,10 @@
             - [x] ? the embedding 'attributes' thing
         - [x] try RNNs (LSTM, GRU)
         - [x] possibly transformers (training time might be excessive)
-        - [ ] try transfer learning ?
-        - [ ] maybe try preptrained embeddings ? (word2vec, glove, ...)
-- [ ] refactor code
+- [x] refactor code
     - [x] make sure that all the parts of the model refer to it by name (text\_vectorization, train\_data, etc) to avoid confusion)
-    - [ ] watch for punctuation!
-    - [ ] rich_df is read when useless!! delete that code
+    - [x] watch for punctuation!
+    - [x] rich_df is read when useless!! delete that code
 - [x] fine-tuning!
     - [x] redo the fine-tuning without TF-IDF!
 - [ ] put everything on colab and make sure it works!
