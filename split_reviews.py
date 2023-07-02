@@ -1,7 +1,7 @@
 """
 This file contains the code necessary to split the review file in three files, one containig the training data, one containig the validation data and one containing the testing data.
 
-The split is done to better operate on them when using online learning
+The split is done to better operate on them when using online learning.
 """
 import random
 
