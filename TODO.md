@@ -1,5 +1,5 @@
 - [x] make sure that the data preparation pipeline worked as intended (by inspecting the various pieces)
-- [ ] proceed as in Chollet (i.e. bag-of-words => TF-IDF => transformers)
+- [x] proceed as in Chollet (i.e. bag-of-words => TF-IDF => transformers)
     - [x] bag of words with 1 gram
     - [x] bag of words with 2 gram and TF-IDF
     - [x] once that's done try different architectures, models, feature engineering (dimensionality reduction)
@@ -14,8 +14,8 @@
     - [x] rich_df is read when useless!! delete that code
 - [x] fine-tuning!
     - [x] redo the fine-tuning without TF-IDF!
-- [ ] put everything on colab and make sure it works!
-    - [ ] not enough RAM!! reduce model size...
-    - [ ] add the code to download the splits directly from github repo (so we don't need to run the python script anew)
-- [ ] write the report
-    - [ ] use chollet diagrams to explain the NLP process (chapter 11)
+- [x] put everything on colab and make sure it works!
+    - [x] not enough RAM!! reduce model size...
+    - [x] add the code to download the splits directly from github repo (so we don't need to run the python script anew)
+- [x] write the report
+    - [x] use chollet diagrams to explain the NLP process (chapter 11)
