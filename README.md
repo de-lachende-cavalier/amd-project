@@ -6,3 +6,4 @@ To go through all the code in its entirety, simply set the variable to `False` a
 
 I don't suggest going the latter route though.
 Rather, after the first run, I'd suggest setting the `first_run` variable to `False`, then expanding the parts of the notebooks that you might find interesting and running them independentely from the rest of the notebook, thus focusing on single parts and not on the whole.
+Additionally, to make this way of running the code more user-friendly, I have repeated (hopefully) all the necessary code for data preparation at the beginning of the various sections, that way the sections could **almost** be considered as independent.
